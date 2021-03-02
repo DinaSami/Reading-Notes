@@ -16,4 +16,4 @@ https://github.com/DinaSami
 
 |Content|Link|
 |:------|:-----|
-|read02b|https://dinasami.github.io/Reading-Notes/read02b|
+|read02b|[click here](https://github.com/DinaSami/Reading-Notes/blob/main/README.md)
