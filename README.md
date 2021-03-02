@@ -12,4 +12,8 @@
 My name is Dina Sami , I did my graduation in Architectural engineer from Al-albayt university
 https://github.com/DinaSami
 
-*new change*
+*Im Dina Sami , I did my graduation in Architectural engineer from Al-albayt university*
+
+|Content|Link|
+|:------|:-----|
+|read02b|https://dinasami.github.io/Reading-Notes/read02b|
