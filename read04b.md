@@ -4,8 +4,11 @@
 *As pionees of computer science</b> explored how to the design a thinking machines , it had to perform four deffernt tasks:*
 
 1- Take INPUT
+
 2- Store information
+
 3- Process information
+
 4- Out the results
 
 *The earliest computer was made in wood and metal with mechanical engines , by 20 century computer statrs using electrical components , These computer was really large and slow
