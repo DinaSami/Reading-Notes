@@ -19,8 +19,10 @@ An element may be the same size and color as surrounding content but have a diff
 ## Domain Names & Hosting ##
 In order to put your site on the web you will need **a domain name and web hosting** .
 
-*DOMAIN NAME
+*DOMAIN NAME*
+
 Your domain name is your web address (e.g. google.com or bbc.co.uk). There are many websites that allow you to register domain names. Usually you will have to pay an annual fee to keep that domain name.
 
 *WEB HOST*
+
 So that other people can see your site, you will need to upload it to a web server. Web servers are special computers that are constantly connected to the Internet. They are specially set up to serve web pages when they are requested.
