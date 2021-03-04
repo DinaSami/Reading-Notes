@@ -20,7 +20,7 @@
  ### What is the script?
  *A script is a series of instructions that a computer can follow to achieve a goal.*
  
-####Read this Notes!####
+#### Read this Notes! ####
 
 scripts are made up of instructions a computer can follow step-by-step
 scripts can run different parts of the script depending on how the user interacts with the web page
@@ -69,6 +69,7 @@ Here are six rules you must always follow when giving a variable a name:
  
 Example:
 * A basic function for html and java script*
+
 ![example](https://www.homeandlearn.co.uk/javascript/images/chapter_4/two_functions.gif)
     
     
