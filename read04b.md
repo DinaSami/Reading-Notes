@@ -47,7 +47,7 @@ These information is process then take it to memory with a series of ***ALGORITH
 
 **Zeroes AND ONES**
 
-*Zeroes and ones do play a big role in how computers work >inside computer a large amount of electric wires and circuits which carry all the information*
+***Zeroes and ones*** do play a big role in how computers work >inside computer a large amount of electric wires and circuits which carry all the information*
 
 **Binary number system**
 *in the Decimal no. system there nine no. and in the binary system we have two numers (0 , 1)*
@@ -61,5 +61,5 @@ These information is process then take it to memory with a series of ***ALGORITH
 
 *Central processing unit is is the electronic circuitry within a computer that executes instructions that make up a computer program*
 
-![CPU}(https://i2.wp.com/www.informationq.com/wp-content/uploads/2016/06/CPU.jpg?fit=1200%2C809&ssl=1&w=640)
+![CPU}(https://monovm.com/uploads/tinymce/antoniy/consumer%20CPU%20recommendations/Intel-i7-9700K-CPU.jpg)
    
