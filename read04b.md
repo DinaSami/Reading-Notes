@@ -33,12 +33,16 @@
 
 4- Camera
   
-*these information is process then take it to memory with a series of ***ALGORITHM!***
+These information is process then take it to memory with a series of ***ALGORITHM!***
 
 **Type of OUTPUT**
+
 1-Text
+
 2-Photos
+
 3-Videos
+
 4-Games
 
 **Zeroes AND ONES**
