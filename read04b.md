@@ -11,7 +11,7 @@
 
 4- Out the results
 
-*The earliest computer was made in wood and metal with mechanical engines , by 20 century computer statrs using electrical components , These computer was really large and slow
+*The earliest computer was made in wood and metal with mechanical engines , by 20 century computer statrs using electrical components , These computer was really large and slow*
 
 **uses for computers:**
 1- Talk to eachother
