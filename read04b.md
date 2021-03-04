@@ -14,8 +14,11 @@
 *The earliest computer was made in wood and metal with mechanical engines , by 20 century computer statrs using electrical components , These computer was* ***really large and slow.***
 
 **uses for computers:**
+
 1- Talk to eachother
+
 2- Play games
+
 3- Control robots
 
 **Types of INPUT**
