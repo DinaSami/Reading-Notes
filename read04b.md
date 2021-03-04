@@ -1,6 +1,7 @@
 ## How computers works?
-*Computer revolution changes the world , we are using computers everywhere in office , hospitals even in our homes. So it could be great to know how it works!!
-*As pionees of computer science</b> explored how to the design a thinking machines , it had to perform four deffernt tasks:
+
+*Computer revolution changes the world , we are using computers everywhere in office , hospitals even in our homes. So it could be great to know how it works!!*
+*As pionees of computer science</b> explored how to the design a thinking machines , it had to perform four deffernt tasks:*
 1- Take INPUT
 2- Store information
 3- Process information
