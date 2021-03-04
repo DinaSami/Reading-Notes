@@ -1,16 +1,19 @@
 ## WireFrames
-**A wireframes** *a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
+**A wireframes** *a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.*
 
 ## Visual hierarchy
 Most web users do not read entire pages.Rather, they skim to find information. You can use contrast to create a visual hierarchy that gets across your key message and helps users find what they are looking for..
 
 **SIZE**
+
 Larger elements will grab users' attention first. For this reason it is a good idea to make headings and key points relatively large.
 
 **COLOR**
+
 Foreground and background color can draw attention to key messages. Brighter sections tend to draw users' attention first.
 
 **Style**
+
 An element may be the same size and color as surrounding content but have a different style applied to it to make it stand out.
 
 ## Domain Names & Hosting ##
