@@ -22,10 +22,15 @@
 3- Control robots
 
 **Types of INPUT**
+
 *All deferrent inputs give computer information to store and memory*
+
 1- Keyboard
+
 2- Mouse
+
 3- Microphones
+
 4- Camera
   
 *these information is process then take it to memory with a series of ***ALGORITHM!***
