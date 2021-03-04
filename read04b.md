@@ -61,5 +61,5 @@ These information is process then take it to memory with a series of ***ALGORITH
 
 *Central processing unit is is the electronic circuitry within a computer that executes instructions that make up a computer program*
 
-![CPU}(https://monovm.com/uploads/tinymce/antoniy/consumer%20CPU%20recommendations/Intel-i7-9700K-CPU.jpg)
+![CPU](https://monovm.com/uploads/tinymce/antoniy/consumer%20CPU%20recommendations/Intel-i7-9700K-CPU.jpg)
    
