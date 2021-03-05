@@ -1,19 +1,16 @@
-# Reading-Notes
-**Growth Mindset**
-## NOTHING IS IMPOSSIBLE. THE WORD ITSELF SAYS ITS POSSIBLE
-*Growth mindset is a powerful gained trait that everybody can get it by learning and some of efforts you can jump from zero levele to hero level*
+#### Hi, I am **Dina Sami**, an Architect who loves programming ! 
 
-**my 3  reminders to  how to keep myself in a growth mindset** 
-1. learn from mistakes
-2. embrace the challenges
-3. inspires by everything
+### This my Githup account ----> https://github.com/DinaSami
 
-![Growthmindset](https://miro.medium.com/max/1200/1*TtlqcGNhwGaF0mOfsQJrOg.jpeg)
-My name is Dina Sami , I did my graduation in Architectural engineer from Al-albayt university
-https://github.com/DinaSami
+*Enjoy my content and please feel free to ask me about it !
 
-*Im Dina Sami , I did my graduation in Architectural engineer from Al-albayt university*
 
-|Content|Link|
-|:------|:-----|
-|read02b|[click here](https://dinasami.github.io/Reading-Notes/read02b)
+| content      | link                                                                |
+| :-----------  | :--------------------------------------------------------------------|
+| lab02b      |[Click HERE]( https://dinasami.github.io/Reading-Notes/lab_02b)    |
+| read02b      |[Click HERE](https://abeeral-rafati.github.io/Read_Note/read_02b)     |
+| read03        |[Click HERE](https://abeeral-rafati.github.io/Read_Note/read_03) |
+| read04       |[Click HERE](https://abeeral-rafati.github.io/Read_Note/read_04)     |
+| read04b     |[Click HERE](https://abeeral-rafati.github.io/Read_Note/read_04b)   |
+     
+
