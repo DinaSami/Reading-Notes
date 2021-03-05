@@ -8,9 +8,9 @@
 | content      | link                                                                |
 | :-----------  | :--------------------------------------------------------------------|
 | lab02b      |[Click HERE]( https://dinasami.github.io/Reading-Notes/lab02b)    |
-| read02b      |[Click HERE](https://abeeral-rafati.github.io/Read_Note/read02b)     |
-| read03        |[Click HERE](https://abeeral-rafati.github.io/Read_Note/read03) |
-| read04       |[Click HERE](https://abeeral-rafati.github.io/Read_Note/read04)     |
-| read04b     |[Click HERE](https://abeeral-rafati.github.io/Read_Note/read04b)   |
+| read02b      |[Click HERE](https://dinasami.github.io/Reading-Notes/read02b)     |
+| read03        |[Click HERE](https://dinasami.github.io/Reading-Notes/read03) |
+| read04       |[Click HERE](https://dinasami.github.io/Reading-Notes/read04)     |
+| read04b     |[Click HERE](https://dinasami.github.io/Reading-Notes/read04b)   |
      
 
