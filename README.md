@@ -12,5 +12,6 @@
 | read03        |[Click HERE](https://dinasami.github.io/Reading-Notes/read03) |
 | read04       |[Click HERE](https://dinasami.github.io/Reading-Notes/read04)     |
 | read04b     |[Click HERE](https://dinasami.github.io/Reading-Notes/read04b)   |
+| read04c     |[Click HERE](https://dinasami.github.io/Reading-Notes/read04c)   |
      
 
