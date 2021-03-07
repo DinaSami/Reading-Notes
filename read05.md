@@ -1,8 +1,8 @@
 
 
-# operatos
+# operators
 
-### 1. Comparison operatos:
+### 1. Comparison operators:
 
 
 *you can evaluate a situation by comparing one value in the script to what you expect .The result will be a  Boolean : true or false.*
@@ -15,13 +15,13 @@ These are comparison operators:
 
 * Strict equal to ( === )
 
-* Srict not equal to ( !==)
+* Strict not equal to ( !==)
 
 * Greater than ( > )
 
 * Less than ( < )
 
-* Greater tha or equal to ( >= )
+* Greater than or equal to ( >= )
 
 * Less than or equal to ( <= )
 
