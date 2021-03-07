@@ -41,7 +41,7 @@ These are comparison operators:
   
  * Logical And ( && )
 
-* Logical Or ( || )
+* Logical Or ( )
 
 * Logical Not ( ! )
 
