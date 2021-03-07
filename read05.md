@@ -2,7 +2,7 @@
 
 # operators
 
-### 1. Comparison operators:
+  ### 1. Comparison operators:
 
 
 *you can evaluate a situation by comparing one value in the script to what you expect .The result will be a  Boolean : true or false.*
@@ -27,13 +27,13 @@ These are comparison operators:
 
 
 
-  #### Structure Comparison operatos:
+  #### Structure Comparison operators:
   
   
  *in any condition , there is usually one operator and two operands. The operands are placed on each side of the operator. They can be value or variables.*
   
   
- ### 2. Logical operators:
+   ### 2. Logical operators:
   
   *Comparison operators usually return single values of true or false. Logical operators allow you to compare the results of more than one comparison.*
   
@@ -45,7 +45,7 @@ These are comparison operators:
 
 * Logical Not ( ! )
 
-  # Loops
+ # Loops
  
  *Loops check a condition . If it returns true ,  a code block will run. Then the condition will be checked again and if it still returns true, the code block will run again.
  It repeats until the condition returns false.*
