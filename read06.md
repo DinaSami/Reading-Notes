@@ -44,7 +44,7 @@ What is HSL indicate to ?
 
 ![hsl](https://miro.medium.com/max/964/1*B2d44wTBqfygLEZ8ZTJXzg.png)
 
-'Color not only brings your site to life, but also helps convey the mood and evokes reactions'
+> Color not only brings your site to life, but also helps convey the mood and evokes reactions!
 
 
 
