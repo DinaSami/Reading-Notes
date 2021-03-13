@@ -25,6 +25,24 @@
 
 3.INLINE : Some elements will always appear to continue on the same line as their neighbouring elements.
 
+### HTML5 Layout
+
+# Headers & Footers <header> <footer>
+  *The <header> and <footer> elements can be used for:*
+  
+  1.The main header or footer that appears at the top or bottom of every page on the site.
+
+  2.A header or footer for an individual <article> or <section> within the page.
+
+![HEADER](Capture.PNG)
+
+
+
+
+
+
+
+
 
 
 
