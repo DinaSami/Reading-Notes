@@ -61,7 +61,9 @@ What is **Visual hierarchy** ?
 
 *Most web users do not read entire pages. Rather, they skim to find information. You can use contrast to create a visual hierarchy that gets across your key message and helps users find what they are looking for.*
 
-![visual](dina.PNG)
+![visual](https://createandinnovate.files.wordpress.com/2012/03/visual-hierachy.jpg)
+
+
 
 
 
