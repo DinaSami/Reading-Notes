@@ -34,7 +34,46 @@
 
   2.A header or footer for an individual <article> or <section> within the page.
 
-![HEADER](Capture.PNG)
+# Navigation <nav>
+ 
+ *The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.*
+  
+# Articles <article>
+ 
+ *The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.*
+ 
+# Figures <figure> <figcaption>
+
+*It can be used to contain any content that is referenced from the main flow of an article (not just images).*
+
+
+### Design and Process
+
+What is **Wireframe** ?
+
+*A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.*
+
+
+![wireframe](https://www.comentum.com/images/wireframes-sample/ecommerce/home.png)
+
+
+What is **Visual hierarchy** ?
+
+*Most web users do not read entire pages. Rather, they skim to find information. You can use contrast to create a visual hierarchy that gets across your key message and helps users find what they are looking for.*
+
+![visual](dina.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
