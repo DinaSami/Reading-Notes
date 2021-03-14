@@ -22,4 +22,4 @@
 | content      | link  
 | :-----------  | :--------------------------------------------------------------------|
 | class-01    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-01)   |    
-
+| class-02    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-02)   |  
