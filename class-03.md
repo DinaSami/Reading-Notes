@@ -138,7 +138,7 @@ var el document.getElementByld('col ors');
 el . textContent = col ors[O];
 ```
 
-- Swith statement : starts with a variable called the switch value.Each case indicates a possible value for this variable and the code that should run if the 
+- Switch statement : starts with a variable called the switch value.Each case indicates a possible value for this variable and the code that should run if the 
 variable matches that value.
 *Example :*
 
