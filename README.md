@@ -23,3 +23,4 @@
 | :-----------  | :--------------------------------------------------------------------|
 | class-01    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-01)   |    
 | class-02    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-02)   |  
+| class-03    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-03)   |
