@@ -16,7 +16,12 @@
 - Border style
 - border-image
 - Rounded corners
-- 
+
+**3. Basic JavaScript Instructions**
+
+- Array
+- Decisions and Loops
+ 
 # lIST
 
 - Ordered list : The ordered list is created with the <ol> element.
@@ -120,8 +125,80 @@ p {
 border-radius: 10px;}
 ```
 ----------------------------------------------------------
+# Basic JavaScript Instructions
 
+- Array :  is a special type of variable. It doesn't just store one value; it stores a list of values.
+*Example :*
 
+```bash
+var colors;
+colors ['white', 'black', ' custom '];
 
+var el document.getElementByld('col ors');
+el . textContent = col ors[O];
+```
+
+- Swith statement : starts with a variable called the switch value.Each case indicates a possible value for this variable and the code that should run if the 
+variable matches that value.
+*Example :*
+
+```bash
+switch (level) {
+case 'O ne ':
+title= 'Level 1 ' ;
+break;
+
+case 'Two':
+tit 1 e = ' Level 2 ' ;
+break;
+
+default :
+title= 'Test';
+break;
+{
+```
+
+- For Loops : A for loop is often used to loop through the items in an array.
+*Example :*
+
+```bash
+var scores= [24. 32, 17]; 
+var arraylength scores .l ength;
+var roundNumber = O;
+var msg ''; //Message
+var i ;
+for (i = O; i < arraylength; i++) {
+roundNumber = (i + l);
+msg += 'Round ' + roundNumber + ' : ';
+msg += scores[i] + '<br / >' ;
+{
+document .getElementByid( ' answer') .i nnerHTML msg;
+```
+
+- While Loop : This loop will continue to run for as long as the condition in the parentheses is true.
+*Example :*
+
+```bash
+var i = l ;
+var msg = ' ' ;
+while (i < 10) {
+msg += i + ' x 5 = ' + (i * 5) + '<br I>';
+i++;
+{
+```
+
+- Do While loop : the statements in the code block come before the condition.
+*Example :*
+
+```bash
+var i = l;
+var msg :'';
+do {
+msg += i + ' x 5 = ' + (i * 5) + '<br I>' ;s
+i++;
+} wh il e ( i < 1) ;
+document .getEl ementByl d(' answer').innerHTML = msg;
+{
+```
 
 
