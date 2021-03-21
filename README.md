@@ -27,3 +27,4 @@
 | class-04    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-04)   |
 | class-05    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-05)   |
 | class-06    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-06)   |
+| class-07    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-07)   |
