@@ -1,6 +1,6 @@
-### CSS
+## CSS
 
-## Table of content
+### Table of content
 
 **Layout**
 
@@ -44,3 +44,38 @@ href="css/typography.css" />
 
 *The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width.)*
 *Grids help create professional and flexible designs.*
+
+(position:static) : In normal flow, each block-level element sits on top of the next one. Since this is the default way in which browsers treat HTML elements, you do notneed a CSS property to indicate that elements should appear in normal flow.
+
+(position:relative) : Relative positioning moves an element in relation to where it would have been in normal flow.
+
+(position:absolute) : When the position property is given a value of absolute,the box is taken out of normal flow and no longer affects the position of other elements on the page.
+
+(position:fixed) : Fixed positioning is a type of absolute positioning that requires the position property to have a value of fixed.
+
+*Example :* 
+
+```bash
+h1 {
+position: fixed;
+padding: 10px;
+}
+p {
+position: absolute;
+width: 450px;}
+#p {
+position: relative;
+top: 10px;}
+```
+
+
+
+
+
+ 
+
+
+
+
+
+
