@@ -31,3 +31,5 @@
 | class-08    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-08)   |
 | class-09    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-09)   |
 | class-10    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-10)   |
+| class-11    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-11)   |
+
