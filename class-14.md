@@ -1,5 +1,5 @@
-### CSS
-## Table of content
+## CSS
+### Table of content
 
 **CSS Transforms**
 **CSS Transitions & Animations**
