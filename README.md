@@ -34,3 +34,4 @@
 | class-11    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-11)   |
 | class-12    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-12)   |
 | class-13    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-13)   |
+| class-14    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-14)   |
