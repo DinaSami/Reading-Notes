@@ -1,10 +1,12 @@
+# Reading Notes
+
 ### Hi, I am **Dina Sami**, an Architect who loves programming ! 
 
 ### This my Githup account ----> https://github.com/DinaSami
 
 *Enjoy my content and please feel free to ask me about it !*
 
-### Code 102 Reading Notes
+### Code 102 - Intro to Software Development
 
 | content      | link                                                                |
 | :-----------  | :--------------------------------------------------------------------|
@@ -17,7 +19,7 @@
 | read05     |[Click HERE](https://dinasami.github.io/Reading-Notes/read05)   |
 | read06     |[Click HERE](https://dinasami.github.io/Reading-Notes/read06)   |     
 
-### Code 201 Reading Notes
+### Code 201 - Foundations of Software Development
 
 | content      | link  
 | :-----------  | :--------------------------------------------------------------------|
@@ -35,3 +37,5 @@
 | class-12    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-12)   |
 | class-13    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-13)   |
 | class-14    |[Click HERE](https://dinasami.github.io/Reading-Notes/class-14)   |
+
+### Code 301 - Intermediate Software Development
