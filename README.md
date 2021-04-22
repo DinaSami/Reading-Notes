@@ -58,3 +58,5 @@
 | class-14a    |[DB Normalization](https://dinasami.github.io/Reading-Notes/)   |
 | class-14b    |[Project Ideas & APIs](https://dinasami.github.io/Reading-Notes/)   |
 | class-15   |[Diversity and Inclusion](https://dinasami.github.io/Reading-Notes/)   |
+
+### Code 401 - Advanced Software Development
