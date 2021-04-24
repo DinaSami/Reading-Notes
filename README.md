@@ -42,7 +42,7 @@
 
 | content      | link  
 | :-----------  | :--------------------------------------------------------------------|
-| class-01    |[SMACSS and Responsive Web Design](https://dinasami.github.io/Reading-Notes/)   |    
+| class-01    |[React](https://dinasami.github.io/Reading-Notes/Class01)   |    
 | class-02    |[ jQuery, Events, and The DOM](https://dinasami.github.io/Reading-Notes/)   |  
 | class-03    |[Flexbox and Templating](https://dinasami.github.io/Reading-Notes/)   |
 | class-04    |[Responsive Web Design and Regular Expressions](https://dinasami.github.io/Reading-Notes/)   |
