@@ -43,7 +43,7 @@
 | content      | link  
 | :-----------  | :--------------------------------------------------------------------|
 | class-01    |[React](https://dinasami.github.io/Reading-Notes/Class01)   |    
-| class-02    |[State and Props](https://dinasami.github.io/Reading-Notes/Class 02)   |  
+| class-02    |[State and Props](https://dinasami.github.io/Reading-Notes/Class02)   |  
 | class-03    |[Flexbox and Templating](https://dinasami.github.io/Reading-Notes/)   |
 | class-04    |[Responsive Web Design and Regular Expressions](https://dinasami.github.io/Reading-Notes/)   |
 | class-05    |[Heroku Deployment](https://dinasami.github.io/Reading-Notes/)   |
