@@ -45,7 +45,7 @@
 | class-01    |[React](https://dinasami.github.io/Reading-Notes/Class01)   |    
 | class-02    |[State and Props](https://dinasami.github.io/Reading-Notes/Class02)   |  
 | class-03    |[Passing Functions](https://dinasami.github.io/Reading-Notes/Class03)   |
-| class-04    |[Responsive Web Design and Regular Expressions](https://dinasami.github.io/Reading-Notes/)   |
+| class-04    |[React and Forms](https://dinasami.github.io/Reading-Notes/Class04)   |
 | class-05    |[Heroku Deployment](https://dinasami.github.io/Reading-Notes/)   |
 | class-06    |[Node, Express, and APIs](https://dinasami.github.io/Reading-Notes/)   |
 | class-07    |[APIs continued](https://dinasami.github.io/Reading-Notes/)   |
