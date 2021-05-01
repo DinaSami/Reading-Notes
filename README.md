@@ -47,7 +47,7 @@
 | class-03    |[Passing Functions](https://dinasami.github.io/Reading-Notes/Class03)   |
 | class-04    |[React and Forms](https://dinasami.github.io/Reading-Notes/Class04)   |
 | class-05    |[Thinking in React](https://dinasami.github.io/Reading-Notes/Class05)   |
-| class-06    |[Node, Express, and APIs](https://dinasami.github.io/Reading-Notes/)   |
+| class-06    |[NODE.JS](https://dinasami.github.io/Reading-Notes/Class06)   |
 | class-07    |[APIs continued](https://dinasami.github.io/Reading-Notes/)   |
 | class-08    |[SQL](https://dinasami.github.io/Reading-Notes/)   |
 | class-09    |[Refactoring](https://dinasami.github.io/Reading-Notes/)   |
