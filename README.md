@@ -50,7 +50,7 @@
 | class-06    |[NODE.JS](https://dinasami.github.io/Reading-Notes/Class06)   |
 | class-07    |[REST](https://dinasami.github.io/Reading-Notes/Class07)   |
 | class-08    |[APIs](https://dinasami.github.io/Reading-Notes/Class08)   |
-| class-09    |[Refactoring](https://dinasami.github.io/Reading-Notes/)   |
+| class-09    |[FUNCTIONAL PROGRAMMING](https://dinasami.github.io/Reading-Notes/Class09)   |
 | class-10    |[ The Call Stack and Debugging](https://dinasami.github.io/Reading-Notes/)   |
 | class-11    |[ EJS](https://dinasami.github.io/Reading-Notes/)   |
 | class-12    |[Components](https://dinasami.github.io/Reading-Notes/)   |
