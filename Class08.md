@@ -1,6 +1,6 @@
 # Web API Design
 
-https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
+
 
 - APIs should be able to support platform independence and service evolution.
 
@@ -70,4 +70,4 @@ Level 3 - Use hypermedia (HATEOAS).
 
 - Media type versioning - name the desired format using Accept in the header in the request.
 
-[code301 Reading Notes](/301/code301Table.md)
+
