@@ -49,7 +49,7 @@
 | class-05    |[Thinking in React](https://dinasami.github.io/Reading-Notes/Class05)   |
 | class-06    |[NODE.JS](https://dinasami.github.io/Reading-Notes/Class06)   |
 | class-07    |[REST](https://dinasami.github.io/Reading-Notes/Class07)   |
-| class-08    |[SQL](https://dinasami.github.io/Reading-Notes/)   |
+| class-08    |[APIs](https://dinasami.github.io/Reading-Notes/Class08.md)   |
 | class-09    |[Refactoring](https://dinasami.github.io/Reading-Notes/)   |
 | class-10    |[ The Call Stack and Debugging](https://dinasami.github.io/Reading-Notes/)   |
 | class-11    |[ EJS](https://dinasami.github.io/Reading-Notes/)   |
