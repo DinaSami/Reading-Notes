@@ -54,9 +54,8 @@
 | class-10    |[In memory storage](https://dinasami.github.io/Reading-Notes/Class10)   |
 | class-11    |[Authentication](https://dinasami.github.io/Reading-Notes/Class11)   |
 | class-12    |[SQL vs NoSQL](https://dinasami.github.io/Reading-Notes/Class12)   |
-| class-13    |[Update/Delete](https://dinasami.github.io/Reading-Notes/)   |
-| class-14a    |[DB Normalization](https://dinasami.github.io/Reading-Notes/)   |
-| class-14b    |[Project Ideas & APIs](https://dinasami.github.io/Reading-Notes/)   |
-| class-15   |[Diversity and Inclusion](https://dinasami.github.io/Reading-Notes/)   |
+| class-13    |[CRUD](https://dinasami.github.io/Reading-Notes/Class13)   |
+| class-14    |[DB Normalization](https://dinasami.github.io/Reading-Notes/)   |
+
 
 ### Code 401 - Advanced Software Development
