@@ -55,7 +55,7 @@
 | class-11    |[Authentication](https://dinasami.github.io/Reading-Notes/Class11)   |
 | class-12    |[SQL vs NoSQL](https://dinasami.github.io/Reading-Notes/Class12)   |
 | class-13    |[CRUD](https://dinasami.github.io/Reading-Notes/Class13)   |
-| class-14    |[DB Normalization](https://dinasami.github.io/Reading-Notes/)   |
+| class-14    |[Diversity & Inclusion in the Tech Industry](https://dinasami.github.io/Reading-Notes/Class14)   |
 
 
 ### Code 401 - Advanced Software Development
