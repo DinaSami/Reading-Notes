@@ -59,3 +59,15 @@
 
 
 ### Code 401 - Advanced Software Development
+
+| content      | link  
+| :-----------  | :--------------------------------------------------------------------|
+| pre-work    |[pre-work](https://dinasami.github.io/Reading-Notes/Class01)   |   
+| class-01    |[Node Ecosystem, TDD, CI/CD](https://dinasami.github.io/Reading-Notes/Class01)   |    
+| class-02    |[Express](https://dinasami.github.io/Reading-Notes/Class02)   |  
+| class-03    |[Express REST API](https://dinasami.github.io/Reading-Notes/Class03)   |
+| class-04    |[Data Modeling](https://dinasami.github.io/Reading-Notes/Class04)   |
+| class-05    |[Linked Lists](https://dinasami.github.io/Reading-Notes/Class05)   |
+| class-06    |[Authentication](https://dinasami.github.io/Reading-Notes/Class06)   |
+| class-07    |[Bearer Authorization](https://dinasami.github.io/Reading-Notes/Class07)   |
+| class-08    |[Access Control (ACL)](https://dinasami.github.io/Reading-Notes/Class08)   |
