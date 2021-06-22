@@ -62,6 +62,14 @@
 
 | content      | link  
 | :-----------  | :--------------------------------------------------------------------|
-| pre-work    |[pre-work](https://dinasami.github.io/Reading-Notes/401/pre-work)   | 
+| pre-work    |[pre-work](https://dinasami.github.io/Reading-Notes/401/pre-work)   |
+| class1    |[Node Ecosystem, TDD, CI/CD](https://dinasami.github.io/Reading-Notes/401/class1)   |    
+| class2    |[Express](https://dinasami.github.io/Reading-Notes/401/class2)   |  
+| class3    |[Express REST API](https://dinasami.github.io/Reading-Notes/401/class3)   |
+| class4    |[Data Modeling](https://dinasami.github.io/Reading-Notes/401/class4)   |
+| class5    |[Linked Lists](https://dinasami.github.io/Reading-Notes/401/class5)   |
+| class6    |[Authentication](https://dinasami.github.io/Reading-Notes/401/class6)   |
+| class7    |[Bearer Authorization](https://dinasami.github.io/Reading-Notes/401/class7)   |
+| class8    |[Access Control (ACL)](https://dinasami.github.io/Reading-Notes/401/class8)   |
 
 
