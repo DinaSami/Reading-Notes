@@ -2,7 +2,7 @@
 
 ### Hi, I am **Dina Sami**, an Architect who loves programming ! 
 
-### This is my Githup account ----> https://github.com/DinaSami
+### This is my Github account ----> https://github.com/DinaSami
 
 *Enjoy my content and please feel free to ask me about it !*
 
