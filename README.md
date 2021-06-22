@@ -63,7 +63,7 @@
 | content      | link  
 | :-----------  | :--------------------------------------------------------------------|
 | pre-work    |[pre-work](https://dinasami.github.io/Reading-Notes/401/pre-work)   | 
-| read-01    |[Node Ecosystem, TDD, CI/CD](https://dinasami.github.io/Reading-Notes/401/Class01)   |    
+| read-01    |[Node Ecosystem, TDD, CI/CD](https://dinasami.github.io/Reading-Notes/401/read-01)   |    
 | class-02    |[Express](https://dinasami.github.io/Reading-Notes/401/Class02)   |  
 | class-03    |[Express REST API](https://dinasami.github.io/Reading-Notes/401/Class03)   |
 | class-04    |[Data Modeling](https://dinasami.github.io/Reading-Notes/401/Class04)   |
