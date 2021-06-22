@@ -42,20 +42,20 @@
 
 | content      | link  
 | :-----------  | :--------------------------------------------------------------------|
-| class-01    |[React](https://dinasami.github.io/Reading-Notes/Class01)   |    
-| class-02    |[State and Props](https://dinasami.github.io/Reading-Notes/Class02)   |  
-| class-03    |[Passing Functions](https://dinasami.github.io/Reading-Notes/Class03)   |
-| class-04    |[React and Forms](https://dinasami.github.io/Reading-Notes/Class04)   |
-| class-05    |[Thinking in React](https://dinasami.github.io/Reading-Notes/Class05)   |
-| class-06    |[NODE.JS](https://dinasami.github.io/Reading-Notes/Class06)   |
-| class-07    |[REST](https://dinasami.github.io/Reading-Notes/Class07)   |
-| class-08    |[APIs](https://dinasami.github.io/Reading-Notes/Class08)   |
-| class-09    |[FUNCTIONAL PROGRAMMING](https://dinasami.github.io/Reading-Notes/Class09)   |
-| class-10    |[In memory storage](https://dinasami.github.io/Reading-Notes/Class10)   |
-| class-11    |[Authentication](https://dinasami.github.io/Reading-Notes/Class11)   |
-| class-12    |[SQL vs NoSQL](https://dinasami.github.io/Reading-Notes/Class12)   |
-| class-13    |[CRUD](https://dinasami.github.io/Reading-Notes/Class13)   |
-| class-14    |[Diversity & Inclusion in the Tech Industry](https://dinasami.github.io/Reading-Notes/Class14)   |
+| class-01    |[React](https://dinasami.github.io/Reading-Notes/301/Class01)   |    
+| class-02    |[State and Props](https://dinasami.github.io/Reading-Notes/301/Class02)   |  
+| class-03    |[Passing Functions](https://dinasami.github.io/Reading-Notes/301/Class03)   |
+| class-04    |[React and Forms](https://dinasami.github.io/Reading-Notes/301/Class04)   |
+| class-05    |[Thinking in React](https://dinasami.github.io/Reading-Notes/301/Class05)   |
+| class-06    |[NODE.JS](https://dinasami.github.io/Reading-Notes/301/Class06)   |
+| class-07    |[REST](https://dinasami.github.io/Reading-Notes/301/Class07)   |
+| class-08    |[APIs](https://dinasami.github.io/Reading-Notes/301/Class08)   |
+| class-09    |[FUNCTIONAL PROGRAMMING](https://dinasami.github.io/Reading-Notes/301/Class09)   |
+| class-10    |[In memory storage](https://dinasami.github.io/Reading-Notes/301/Class10)   |
+| class-11    |[Authentication](https://dinasami.github.io/Reading-Notes/301/Class11)   |
+| class-12    |[SQL vs NoSQL](https://dinasami.github.io/Reading-Notes/301/Class12)   |
+| class-13    |[CRUD](https://dinasami.github.io/Reading-Notes/301/Class13)   |
+| class-14    |[Diversity & Inclusion in the Tech Industry](https://dinasami.github.io/Reading-Notes/301/Class14)   |
 
 
 ### Code 401 - Advanced Software Development
