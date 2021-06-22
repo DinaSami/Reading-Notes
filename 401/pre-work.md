@@ -3,10 +3,15 @@
 ### A simple set of steps:
 
 1- Read the problem completely twice.
+
 2- Solve the problem manually with 3 sets of sample data.
+
 3- Optimize the manual steps.
+
 4- Write the manual steps as comments or pseudo-code.
+
 5- Replace the comments or pseudo-code with real code.
+
 6- Optimize the real code.
 
 ### Read the problem completely twice:
@@ -30,7 +35,9 @@ It is very important to solve the problem manually first, so that you know what 
 We all have problems. Big and small. How we deal with them is sometimes, well…pretty random.Unless you have a system, this is probably how you “solve” problems (which is what I did when I started coding):
 
 1- Try a solution.
+
 2- If that doesn’t work, try another one.
+
 3- If that doesn’t work, repeat step 2 until you luck out.
 
 ### Have a framework!!
