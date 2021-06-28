@@ -26,10 +26,6 @@ This happens when you have more than one response being sent to your client. Thi
 *Test Driven Development* is development that is built created based upon its ability to pass a unit test.
 *Behavioral Testing* is a way of describing the app in testing units or bench marks that can be communicated between an engineering team and other stakeholders, like a UX design team and is constructed more or less in sentences.
 
-### Prep Materials
-[Review: ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
-[Using Express Routing](https://expressjs.com/en/guide/routing.html)
-[Express Routing](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4)
 
 ### Better clarity?
 - Super class calls (I think)
@@ -43,8 +39,8 @@ This happens when you have more than one response being sent to your client. Thi
 
 ### Term
 
--Middleware
--Request Object
+- Middleware
+- Request Object
 -Response Object
 -Application Middleware
 -Routing Middleware
