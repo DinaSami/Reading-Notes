@@ -43,13 +43,13 @@ This happens when you have more than one response being sent to your client. Thi
 
 ### Term
 
-Middleware
-Request Object
-Response Object
-Application Middleware
-Routing Middleware
-Test Driven Development
-Behavioral Testing
+-Middleware
+-Request Object
+-Response Object
+-Application Middleware
+-Routing Middleware
+-Test Driven Development
+-Behavioral Testing
 
 
 ### Classes
