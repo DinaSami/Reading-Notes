@@ -12,7 +12,7 @@ Maintaining tests.  Can be seen as "slowing down" development, though, I would t
 ### What's the primary difference between ES6 Classes and Constructor/Prototype Classes
 ES6 classes is like a container that holds the constructor and the methods associated with your instantiated object.  
 
-###Why REST?
+### Why REST?
 The WRRC is inherently stateless. Using REST creates states -  which is like creating knowledge of actions that happened before the client made the request and what will or should happen after the response is sent back to the client.  REST is used when you are talking to your API (vs. CRUD which is used when you are talking to a database)
 
 ### Define
@@ -46,12 +46,6 @@ The WRRC is inherently stateless. Using REST creates states -  which is like cre
 - Behavioral Testing
 
 ### Preview
-
-[sql v nosql](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
-<br>
-[nosql v sql](thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
-<br>
-[nosql modeling techniques](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
 
 **Got Clarity**
 -SQL v. noSQL databases
