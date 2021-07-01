@@ -16,11 +16,11 @@ Mock Testing: creating a testing environment where a mock request can be made to
 
 - Dynamic Module Loading
 
--Singleton Pattern
+- Singleton Pattern
 
--CRUD -> REST Method Matches
+- CRUD -> REST Method Matches
 
-Mock Testing
+- Mock Testing
 
 ### Securing Passwords with Bcrypt Hashing Function :
 
