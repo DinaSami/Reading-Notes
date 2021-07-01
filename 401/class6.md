@@ -12,8 +12,10 @@ Mock Testing: creating a testing environment where a mock request can be made to
 
 ### Term
 
-Router Middleware
-Dynamic Module Loading
+- Router Middleware
+
+- Dynamic Module Loading
+
 Singleton Pattern
 CRUD -> REST Method Matches
 Mock Testing
