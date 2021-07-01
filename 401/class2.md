@@ -35,3 +35,76 @@ REST stands for representational state transfer and is pretty much what we have 
 
 *What are you most excited about trying to implement or see how it works?*
 - Testing and using curl in the terminal to test server. 
+
+### Term
+
+- Web Server
+
+- Express
+
+- Routing
+
+- WRRC
+
+### Express/Node introduction
+
+Node (or more formally Node.js) is an open-source, cross-platform runtime environment that allows developers to create all kinds of server-side tools and applications in JavaScript. The runtime is intended for use outside of a browser context (i.e. running directly on a computer or server OS). As such, the environment omits browser-specific JavaScript APIs and adds support for more traditional OS APIs including HTTP and file system libraries.
+
+```
+const http = require("http");
+
+const hostname = "127.0.0.1";
+const port = 8000;
+
+const server = http.createServer((req, res) => {
+
+   res.writeHead(200, {'Content-Type': 'text/plain'});
+
+   res.end('Hello World\n');
+});
+
+server.listen(port, hostname, () => {
+   console.log(`Server running at http://${hostname}:${port}/`);
+})
+```
+
+### npm :
+
+npm is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
+
+npm consists of three distinct components:
+
+- the website
+
+- the Command Line Interface (CLI)
+
+- the registry
+
+### TTD :
+
+“Test-driven development” refers to a style of programming in which three activities are tightly interwoven: coding, testing (in the form of writing unit tests) and design (in the form of refactoring).
+
+It can be succinctly described by the following set of rules:
+
+write a “single” unit test describing an aspect of the program
+run the test, which should fail because the program lacks that feature
+write “just enough” code, the simplest possible, to make the test pass
+“refactor” the code until it conforms to the simplicity criteria
+repeat, “accumulating” unit tests over time
+
+### CI/CD :
+
+CI/CD (continuous integration , continuous deployment)
+The "CI" refers to continuous integration, it is an automation process fro developers that means changes to an app is regularly built and merged to a repo, So that can be a good solutions when there are multiple branches of an app .
+
+The "CD" refers to continuous deployment , which is automatically release developer's changes from the repo to production , for exapmle we can use He
+
+I install the app or library by typing (npm install -the library's name)
+
+npm install express
+I test the app or library by typing (npm test)
+
+npm test 
+I run the app by typing this command (nodemon)
+
+I set up the app by typing this command (npm init -y)
