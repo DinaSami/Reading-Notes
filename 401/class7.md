@@ -20,7 +20,7 @@
 
 with an authorization code you can split and decode to compare if user entered text exists in database
 
-What can you do with an access token?
+### What can you do with an access token?
 
 with an access token a user is granted access to defined routes.
 
@@ -43,7 +43,7 @@ Access Token username + secret = authentication token
 
 ## Term
 
-Client ID
++ Client ID
 Client Secret
 Authentication Endpoint
 Access Token Endpoint
