@@ -44,12 +44,12 @@ Access Token username + secret = authentication token
 ## Term
 
 + Client ID
-Client Secret
-Authentication Endpoint
-Access Token Endpoint
-API Endpoint
-Authorization Code
-Access Token
++ Client Secret
++ Authentication Endpoint
++ Access Token Endpoint
++ API Endpoint
++ Authorization Code
++ Access Token
 
 ### JWT :
 
