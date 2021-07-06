@@ -71,5 +71,5 @@
 | class6    |[Authentication](https://dinasami.github.io/Reading-Notes/401/class6)   |
 | class7    |[Bearer Authorization](https://dinasami.github.io/Reading-Notes/401/class7)   |
 | class8    |[Access Control (ACL)](https://dinasami.github.io/Reading-Notes/401/class8)   |
-
+| class9    |[SQL](https://dinasami.github.io/Reading-Notes/401/class9)   |
 
