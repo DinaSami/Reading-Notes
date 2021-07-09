@@ -73,4 +73,4 @@
 | class8    |[Access Control (ACL)](https://dinasami.github.io/Reading-Notes/401/class8)   |
 | class9    |[SQL](https://dinasami.github.io/Reading-Notes/401/class9)   |
 | class10   |[Stacks and Queues](https://dinasami.github.io/Reading-Notes/401/class10)   |
-| class11   |[Stacks and Queues](https://dinasami.github.io/Reading-Notes/401/class11)   |
+| class11   |[Event Driven Applications](https://dinasami.github.io/Reading-Notes/401/class11)   |
