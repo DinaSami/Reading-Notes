@@ -2,7 +2,7 @@
 
 ### Hi, I am **Dina Sami**, an Architect who loves programming ! 
 
-### This is my LinkenIn account ----> https://www.linkedin.com/in/dina-khaleel-76a39b203/
+### This is my LinkenIn account ----> [Dina Khaleel](https://www.linkedin.com/in/dina-khaleel-76a39b203/)
 
 *Enjoy my content and please feel free to ask me about it !*
 
