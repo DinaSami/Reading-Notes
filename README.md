@@ -75,3 +75,4 @@
 | class10   |[Stacks and Queues](https://dinasami.github.io/Reading-Notes/401/class10)   |
 | class11   |[Event Driven Applications](https://dinasami.github.io/Reading-Notes/401/class11)   |
 | class12   |[Socket.io](https://dinasami.github.io/Reading-Notes/401/class12)   |
+| class13   |[Message Queues](https://dinasami.github.io/Reading-Notes/401/class13)   |
