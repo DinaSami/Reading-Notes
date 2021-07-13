@@ -77,3 +77,4 @@
 | class12   |[Socket.io](https://dinasami.github.io/Reading-Notes/401/class12)   |
 | class13   |[Message Queues](https://dinasami.github.io/Reading-Notes/401/class13)   |
 | class14   |[Event Driven Architecture](https://dinasami.github.io/Reading-Notes/401/class14)   |
+| class14a   |[Trees](https://dinasami.github.io/Reading-Notes/401/class14a)   |
