@@ -80,3 +80,4 @@
 | class14a   |[Trees](https://dinasami.github.io/Reading-Notes/401/class14a)   |
 | class16   |[AWS:Cloud Servers](https://dinasami.github.io/Reading-Notes/401/class16)   |
 | class17   |[AWS: S3 and Lambda](https://dinasami.github.io/Reading-Notes/401/class17)   |
+| class18   |[Dynamo and Lambda](https://dinasami.github.io/Reading-Notes/401/class18)   |
