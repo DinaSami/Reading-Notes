@@ -83,4 +83,6 @@
 | class18   |[Dynamo and Lambda](https://dinasami.github.io/Reading-Notes/401/class18)   |
 | class19   |[API, Dynamo and Lambda](https://dinasami.github.io/Reading-Notes/401/class19)   |
 | class26   |[Component Based UI](https://dinasami.github.io/Reading-Notes/401/class26)   |
+| class27   |[Component Based UI](https://dinasami.github.io/Reading-Notes/401/class27)   |
+
 
