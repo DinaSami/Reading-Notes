@@ -84,5 +84,6 @@
 | class19   |[API, Dynamo and Lambda](https://dinasami.github.io/Reading-Notes/401/class19)   |
 | class26   |[Component Based UI](https://dinasami.github.io/Reading-Notes/401/class26)   |
 | class27   |[useState/Hook](https://dinasami.github.io/Reading-Notes/401/class27)   |
+| class28   |[useEffect/Hook](https://dinasami.github.io/Reading-Notes/401/class27)   |
 
 
