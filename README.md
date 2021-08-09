@@ -85,5 +85,6 @@
 | class26   |[Component Based UI](https://dinasami.github.io/Reading-Notes/401/class26)   |
 | class27   |[useState/Hook](https://dinasami.github.io/Reading-Notes/401/class27)   |
 | class28   |[useEffect/Hook](https://dinasami.github.io/Reading-Notes/401/class28)   |
+| class29   |[Advanced State with Reducers](https://dinasami.github.io/Reading-Notes/401/class29)   |
 
 
