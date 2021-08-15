@@ -88,5 +88,6 @@
 | class29   |[Advanced State with Reducers](https://dinasami.github.io/Reading-Notes/401/class29)   |
 | class30   |[Hash Tables](https://dinasami.github.io/Reading-Notes/401/class30)   |
 | class31   |[Context API](https://dinasami.github.io/Reading-Notes/401/class31)   |
+| class32   |[Context API-Behaviors](https://dinasami.github.io/Reading-Notes/401/class32)   |
 
 
