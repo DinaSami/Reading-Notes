@@ -89,5 +89,6 @@
 | class30   |[Hash Tables](https://dinasami.github.io/Reading-Notes/401/class30)   |
 | class31   |[Context API](https://dinasami.github.io/Reading-Notes/401/class31)   |
 | class32   |[Context API-Behaviors](https://dinasami.github.io/Reading-Notes/401/class32)   |
+| class33   |[Login and Auth](https://dinasami.github.io/Reading-Notes/401/class33)   |
 
 
