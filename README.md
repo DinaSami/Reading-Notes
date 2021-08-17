@@ -90,5 +90,6 @@
 | class31   |[Context API](https://dinasami.github.io/Reading-Notes/401/class31)   |
 | class32   |[Context API-Behaviors](https://dinasami.github.io/Reading-Notes/401/class32)   |
 | class33   |[Login and Auth](https://dinasami.github.io/Reading-Notes/401/class33)   |
+| class34   |[API Integration](https://dinasami.github.io/Reading-Notes/401/class34)   |
 
 
