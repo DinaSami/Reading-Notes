@@ -92,5 +92,6 @@
 | class33   |[Login and Auth](https://dinasami.github.io/Reading-Notes/401/class33)   |
 | class34   |[API Integration](https://dinasami.github.io/Reading-Notes/401/class34)   |
 | class35   |[Graphs](https://dinasami.github.io/Reading-Notes/401/class35)   |
+| class36   |[Graphs](https://dinasami.github.io/Reading-Notes/401/class36)   |
 
 
