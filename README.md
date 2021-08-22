@@ -93,5 +93,7 @@
 | class34   |[API Integration](https://dinasami.github.io/Reading-Notes/401/class34)   |
 | class35   |[Graphs](https://dinasami.github.io/Reading-Notes/401/class35)   |
 | class36   |[Application State with Redux](https://dinasami.github.io/Reading-Notes/401/class36)   |
+| class37   |[Redux-Combined Reducers](https://dinasami.github.io/Reading-Notes/401/class37)   |
+
 
 
