@@ -95,6 +95,7 @@
 | class36   |[Application State with Redux](https://dinasami.github.io/Reading-Notes/401/class36)   |
 | class37   |[Redux-Combined Reducers](https://dinasami.github.io/Reading-Notes/401/class37)   |
 | class38   |[Redux-Asynchronous Actions](https://dinasami.github.io/Reading-Notes/401/class38)   |
+| class39   |[Redux-Additional Topics](https://dinasami.github.io/Reading-Notes/401/class39)   |
 
 
 
